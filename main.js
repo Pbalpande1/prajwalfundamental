@@ -1,0 +1,1 @@
+document.write('external' ,10*25, '<br>');
